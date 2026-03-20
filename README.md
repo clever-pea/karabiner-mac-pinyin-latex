@@ -1,6 +1,6 @@
 # Mac 自带拼音输入法 LaTeX 符号修复 (Karabiner-Elements)
 
-在使用 macOS 自带的“简体拼音”输入法编写 LaTeX 时，按下 `Shift + 4` 会默认输出全角的 `¥` ，而不是 `$`，按下 `\` 会输出 `、` 等等。这极其影响 LaTeX 公式编辑的效率。
+在使用 macOS 自带的“简体拼音”输入法编写 LaTeX 时，按下 `Shift + 4` 会默认输出 `¥` ，而不是 `$`，按下 `\` 会输出 `、` 等等。这极其影响 LaTeX 公式编辑的效率。
 
 本项目提供了一个基于 [Karabiner-Elements](https://karabiner-elements.pqrs.org/) 的极简、稳定的解决方案。
 
